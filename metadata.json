@@ -1,0 +1,7 @@
+{
+  "name": "Restro Guide",
+  "description": "AI-powered menu translator for travelers using Google Gemini Vision API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
